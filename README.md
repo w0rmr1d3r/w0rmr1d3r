@@ -2,9 +2,7 @@
 
 I'm **@w0rmr1d3r** !
 
-Dedicated to AWS Security and building [AWholeS](https://github.com/w0rmr1d3r/AWholeS).
-
-Check other PyPi packages I'm building down below ⤵️
+Building some cool PyPi packages. Check them down below ⤵️
 
 ### My PyPi packages
 
